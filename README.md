@@ -44,7 +44,9 @@ npm i lucide-react-native
 ```
 
 
-https://github.com/user-attachments/assets/3aa2fbda-af1e-40a8-af90-8cd7d89253b6
+
+https://github.com/user-attachments/assets/7d387683-2c0f-4f79-baa5-4c63a99c0e0f
+
 
 
 
